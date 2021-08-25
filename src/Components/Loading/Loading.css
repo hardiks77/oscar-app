@@ -1,0 +1,36 @@
+.loading-q{
+
+}
+
+.oscar-image-div img{
+    width: 170px;
+    border-radius: 16px;
+    box-shadow: 4px 4px 4px #999;
+    
+}
+
+.oscar-image-div{
+    margin-bottom: 100px;
+}
+
+h4{
+    font-weight: bolder;
+}
+
+button{
+    padding: 15px 40px;
+    border: 3px solid black;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+    background-color: #fafafa;
+    margin-top: 30px;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+}
+
+.quote{
+    font-size: 30px;
+}

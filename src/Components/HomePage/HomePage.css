@@ -1,0 +1,73 @@
+.app-header{
+   display: flex;
+   justify-content: space-between;
+   padding: 10px; 
+    box-shadow: 4px 4px 4px #999;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+nav div{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.nav-btn{
+   border: 2px solid black;
+   padding: 5px 10px;
+}
+
+
+
+.link-nav, .link-nav:hover, .link-nav:focus, .link-nav:active {
+    text-decoration: none;
+    color: inherit;
+}
+
+.link-nav:active{
+    font-size: 18px;
+}
+
+h1{
+    padding-left: 30px;
+    text-shadow: 2px 2px 2px #999;
+}
+
+/* button{
+    display: block;
+    
+    justify-content: center;
+    align-items: center;
+    
+
+} */
+
+.btn-emergency{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    padding: 15px 40px;
+    width: 200px;
+}
+.btn-shop{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    padding: 15px 40px;
+    width: 200px;
+}
+.btn-friends{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    padding: 15px 40px;
+    width: 200px;
+}

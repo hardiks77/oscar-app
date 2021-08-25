@@ -1,0 +1,31 @@
+.btn-hospital{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    padding: 15px 40px;
+    width: 300px;
+}
+
+h3{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    padding: 15px 40px;
+    width: 200px;
+}
+.btn-contact{
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    padding: 15px 40px;
+    width: 300px;
+}
+
+
+

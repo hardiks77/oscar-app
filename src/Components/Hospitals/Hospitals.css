@@ -1,0 +1,36 @@
+.hospital-list{
+    
+    border: 2px solid black;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    padding: 15px 40px;
+    width: 550px;
+    height: 450px;
+}
+
+#first{
+    display: block;
+    border: 2px solid black;
+    
+    padding: 15px 40px;
+    width: 300px;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 20%;
+}
+#second{
+    display: block;
+    border: 2px solid black;
+    width: 300px;
+    padding: 15px 40px;
+    -webkit-transform: translate(-50%);
+    transform: translate(-50%);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
